@@ -36,7 +36,7 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 | **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Monitoreo fisiológico: Electrocardiograma (ECG) |      {{ badge Curso_1/Monitoreo_solution.ipynb}}                      |       {{ badge Curso_1/Monitoreo.ipynb}}                       |
+| Monitoreo fisiológico: Electrocardiograma (ECG) |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/Curso_1/Monitoreo_solution.ipynb)                      |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/Curso_1/Monitoreo.ipynb)                       |
 | Datos epidemiológicos: Análisis de supervivencia |                            |                            |
 | Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
 | Datos demográficos: Procesamiento y análisis     |                            |                            |
