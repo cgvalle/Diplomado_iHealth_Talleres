@@ -32,16 +32,47 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 # Tabla de ejercicios
 
+### Curso 1: Fundamentos computacionales para IA en medicina
 
-| **Tema**                                      | **Curso 1: Fundamentos computacionales para IA en medicina** | **Curso 2: Análisis exploratorio y visualización de datos en medicina** | **Curso 3: Introducción a IA para el diagnóstico y pronóstico médico** | **Curso 4: Deep Learning y aplicaciones reales de IA en medicina** |
-|-----------------------------------------------|----------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------|
-| **Monitoreo fisiológico: Electrocardiograma (ECG)** |     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/curso_1/Monitoreo_solution.ipynb)                                              |                                                                |                                                                |                                                         |
-| **Datos epidemiológicos: Análisis de supervivencia** |          [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/curso_1/Epidemiologicos_solution.ipynb)                                          |                                                               |                                                               |                                                          |
-| **Imágenes médicas: Rayos X y reportes radiológicos** |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/curso_1/Imagenes_solution.ipynb)                                                               |                                                                |                                                               |                                                         |
-| **Datos demográficos: Procesamiento y análisis**     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/curso_1/Demografico_solution.ipynb)                                                               |                                                               |                                                                |                                                          |
+| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Monitoreo fisiológico: Electrocardiograma (ECG) |      {{ badge Curso_1/Monitoreo_solution.ipynb}}                      |                            |
+| Datos epidemiológicos: Análisis de supervivencia |                            |                            |
+| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
+| Datos demográficos: Procesamiento y análisis     |                            |                            |
 
+---
 
+### Curso 2: Análisis exploratorio y visualización de datos en medicina
 
+| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Monitoreo fisiológico: Electrocardiograma (ECG) |                            |                            |
+| Datos epidemiológicos: Análisis de supervivencia |                            |                            |
+| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
+| Datos demográficos: Procesamiento y análisis     |                            |                            |
+
+---
+
+### Curso 3: Introducción a IA para el diagnóstico y pronóstico médico
+
+| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Monitoreo fisiológico: Electrocardiograma (ECG) |                            |                            |
+| Datos epidemiológicos: Análisis de supervivencia |                            |                            |
+| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
+| Datos demográficos: Procesamiento y análisis     |                            |                            |
+
+---
+
+### Curso 4: Deep Learning y aplicaciones reales de IA en medicina
+
+| **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Monitoreo fisiológico: Electrocardiograma (ECG) |                            |                            |
+| Datos epidemiológicos: Análisis de supervivencia |                            |                            |
+| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
+| Datos demográficos: Procesamiento y análisis     |                            |                            |
 
 
 # Cursos
