@@ -36,10 +36,10 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 | **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Monitoreo fisiológico: Electrocardiograma (ECG) |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/Curso_1/Monitoreo_solution.ipynb)                      |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/Diplomado_iHealth/blob/main/Curso_1/Monitoreo.ipynb)                       |
-| Datos epidemiológicos: Análisis de supervivencia |                            |                            |
-| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
-| Datos demográficos: Procesamiento y análisis     |                            |                            |
+| Monitoreo fisiológico: Electrocardiograma (ECG) |      {{ badge Curso_1/Monitoreo_solution.ipynb}}                      |       {{ badge Curso_1/Monitoreo.ipynb}}                       |
+| Datos epidemiológicos: Análisis de supervivencia |       {{badge Curso_1/Epidemiologicos_solution.ipynb }}                     |          {{badge Curso_1/Epidemiologicos.ipynb }}                  |
+| Imágenes médicas: Rayos X y reportes radiológicos |      {{badge Curso_1/Imagenes_solution.ipynb }}                      |         {{badge Curso_1/Imagenes.ipynb}}                   |
+| Datos demográficos: Procesamiento y análisis     |       {{badge Curso_1/Demografico_solution.ipynb }}                     |        {{badge Curso_1/Demografico.ipynb }}                    |
 
 ---
 

@@ -16,7 +16,7 @@ jobs:
         with:
           check: "all"
           target_branch: main
-          target_repository: cgvalle/Diplomado_iHealth
+          target_repository: cgvalle/Diplomado_iHealth_Talleres
           update: true
 
       - name: Commit & Push changes
