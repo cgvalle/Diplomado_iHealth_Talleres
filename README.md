@@ -36,7 +36,7 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 
 | **Tema**                                      | **Archivo con solución** | **Archivo sin solución** |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Monitoreo fisiológico: Electrocardiograma (ECG) |      {{ badge Curso_1/Monitoreo_solution.ipynb}}                      |                            |
+| Monitoreo fisiológico: Electrocardiograma (ECG) |      {{ badge Curso_1/Monitoreo_solution.ipynb}}                      |       {{ badge Curso_1/Monitoreo.ipynb}}                       |
 | Datos epidemiológicos: Análisis de supervivencia |                            |                            |
 | Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
 | Datos demográficos: Procesamiento y análisis     |                            |                            |
